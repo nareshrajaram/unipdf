@@ -59,10 +59,10 @@ func procBuf(pt *PageText) {
 	pt.viewText = buf.String()
 
 	if len(pt.marks) > 200 {
-		pt.marks = pt.marks[:200]
+		//pt.marks = pt.marks[:200]
 	}
 	if len(pt.viewMarks) > 200 {
-		pt.viewMarks = pt.viewMarks[:200]
+		//pt.viewMarks = pt.viewMarks[:200]
 	}
 }
 
