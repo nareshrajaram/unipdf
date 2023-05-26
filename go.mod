@@ -1,4 +1,4 @@
-module github.com/moolekkari/unipdf
+module github.com/nareshrajaram/unipdf
 
 require (
 	github.com/adrg/sysfont v0.1.1
