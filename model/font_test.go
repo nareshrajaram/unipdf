@@ -8,13 +8,13 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model"
 
-	"github.com/moolekkari/unipdf/internal/testutils"
-	"github.com/moolekkari/unipdf/internal/textencoding"
-	"github.com/moolekkari/unipdf/model/internal/fonts"
+	"github.com/nareshrajaram/unipdf/internal/testutils"
+	"github.com/nareshrajaram/unipdf/internal/textencoding"
+	"github.com/nareshrajaram/unipdf/model/internal/fonts"
 )
 
 func init() {

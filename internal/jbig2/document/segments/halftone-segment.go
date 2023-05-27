@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 
-	"github.com/moolekkari/unipdf/internal/jbig2/bitmap"
-	"github.com/moolekkari/unipdf/internal/jbig2/reader"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/bitmap"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/reader"
 )
 
 // HalftoneRegion is the model for the jbig2 halftone region segment implementation - 7.4.5.1.

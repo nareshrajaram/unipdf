@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 func TestListSimple(t *testing.T) {

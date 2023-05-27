@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/core"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/core"
 )
 
 // PdfPageResources is a Page resources model.

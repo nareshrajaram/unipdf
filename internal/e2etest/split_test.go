@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/model"
 	"github.com/stretchr/testify/require"
 )
 

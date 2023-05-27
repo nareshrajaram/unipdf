@@ -3,10 +3,10 @@ package bitmap
 import (
 	"math"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 
-	"github.com/moolekkari/unipdf/internal/jbig2/basic"
-	"github.com/moolekkari/unipdf/internal/jbig2/errors"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/basic"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/errors"
 )
 
 // CorrelationScore computes the correlation score between the bitmaps: 'bm1' and 'bm2'.

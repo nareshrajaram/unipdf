@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 )
 
 // To enable ghostscript validation, the path to the binary needs to be specified.

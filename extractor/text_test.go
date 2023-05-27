@@ -15,10 +15,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/creator"
-	"github.com/moolekkari/unipdf/internal/transform"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/creator"
+	"github.com/nareshrajaram/unipdf/internal/transform"
+	"github.com/nareshrajaram/unipdf/model"
 	"golang.org/x/text/unicode/norm"
 )
 

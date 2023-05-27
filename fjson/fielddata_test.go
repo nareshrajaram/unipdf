@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 func TestLoadPDFFormData(t *testing.T) {

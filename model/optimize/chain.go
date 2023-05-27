@@ -1,8 +1,8 @@
 package optimize
 
 import (
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // Chain allows to use sequence of optimizers.

@@ -12,11 +12,11 @@ import (
 	_ "image/png"
 	"io"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/internal/imageutil"
-	"github.com/moolekkari/unipdf/internal/jbig2/bitmap"
-	"github.com/moolekkari/unipdf/internal/sampling"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/internal/imageutil"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/bitmap"
+	"github.com/nareshrajaram/unipdf/internal/sampling"
 )
 
 // Image interface is a basic representation of an image used in PDF.

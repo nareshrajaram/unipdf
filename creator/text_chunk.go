@@ -5,9 +5,9 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // TextChunk represents a chunk of text along with a particular style.

@@ -5,10 +5,10 @@ import (
 	"image"
 	"math"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/contentstream"
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/contentstream"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model"
 	"golang.org/x/image/draw"
 )
 

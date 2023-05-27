@@ -6,8 +6,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model/optimize"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model/optimize"
 )
 
 // parseIndirectObjects parses a sequence of indirect/stream objects sequentially from a `rawpdf` text.

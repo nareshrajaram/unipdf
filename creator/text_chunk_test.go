@@ -3,7 +3,7 @@ package creator
 import (
 	"testing"
 
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/model"
 	"github.com/stretchr/testify/require"
 )
 

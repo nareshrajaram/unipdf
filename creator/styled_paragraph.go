@@ -6,11 +6,11 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/contentstream"
-	"github.com/moolekkari/unipdf/contentstream/draw"
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/contentstream"
+	"github.com/nareshrajaram/unipdf/contentstream/draw"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // StyledParagraph represents text drawn with a specified font and can wrap across lines and pages.

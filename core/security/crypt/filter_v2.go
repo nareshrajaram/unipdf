@@ -5,7 +5,7 @@ import (
 	"crypto/rc4"
 	"fmt"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 )
 
 func init() {

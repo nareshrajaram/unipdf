@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/moolekkari/unipdf/core"
+	"github.com/nareshrajaram/unipdf/core"
 	"github.com/stretchr/testify/require"
 )
 

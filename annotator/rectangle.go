@@ -1,11 +1,11 @@
 package annotator
 
 import (
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 
-	"github.com/moolekkari/unipdf/contentstream/draw"
-	pdfcore "github.com/moolekkari/unipdf/core"
-	pdf "github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/contentstream/draw"
+	pdfcore "github.com/nareshrajaram/unipdf/core"
+	pdf "github.com/nareshrajaram/unipdf/model"
 )
 
 // RectangleAnnotationDef is a rectangle defined with a specified Width and Height and a lower left corner at (X,Y).

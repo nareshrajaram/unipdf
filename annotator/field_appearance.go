@@ -6,11 +6,11 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/contentstream"
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/internal/textencoding"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/contentstream"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/internal/textencoding"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // FieldAppearance implements interface model.FieldAppearanceGenerator and generates appearance streams

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 )
 
 // readAtLeast reads at least n bytes into slice p.

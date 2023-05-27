@@ -5,7 +5,7 @@ import (
 
 	"math"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 )
 
 // Color interface represents colors in the PDF creator.

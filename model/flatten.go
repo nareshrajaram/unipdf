@@ -6,8 +6,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/core"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/core"
 )
 
 // ContentStreamWrapper wraps the Page's contentstream into q ... Q blocks.

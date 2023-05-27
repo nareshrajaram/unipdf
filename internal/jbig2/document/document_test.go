@@ -7,11 +7,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 
-	"github.com/moolekkari/unipdf/internal/jbig2/bitmap"
-	"github.com/moolekkari/unipdf/internal/jbig2/document/segments"
-	"github.com/moolekkari/unipdf/internal/jbig2/reader"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/bitmap"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/document/segments"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/reader"
 )
 
 // TestDecodeDocument test the DecodeDocument function.

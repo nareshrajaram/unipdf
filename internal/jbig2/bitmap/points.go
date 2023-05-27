@@ -3,8 +3,8 @@ package bitmap
 import (
 	"sort"
 
-	"github.com/moolekkari/unipdf/internal/jbig2/basic"
-	"github.com/moolekkari/unipdf/internal/jbig2/errors"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/basic"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/errors"
 )
 
 // Point is the basic structure that contains x, y float32 values.

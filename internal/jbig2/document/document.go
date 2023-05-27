@@ -5,14 +5,14 @@ import (
 	"io"
 	"runtime/debug"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 
-	"github.com/moolekkari/unipdf/internal/jbig2/bitmap"
-	"github.com/moolekkari/unipdf/internal/jbig2/document/segments"
-	"github.com/moolekkari/unipdf/internal/jbig2/encoder/classer"
-	"github.com/moolekkari/unipdf/internal/jbig2/errors"
-	"github.com/moolekkari/unipdf/internal/jbig2/reader"
-	"github.com/moolekkari/unipdf/internal/jbig2/writer"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/bitmap"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/document/segments"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/encoder/classer"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/errors"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/reader"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/writer"
 )
 
 // fileHeaderID first byte slices of the jbig2 encoded file, see D.4.1.

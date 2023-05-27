@@ -3,7 +3,7 @@ package cmap
 import (
 	"testing"
 
-	"github.com/moolekkari/unipdf/internal/cmap/bcmaps"
+	"github.com/nareshrajaram/unipdf/internal/cmap/bcmaps"
 	"github.com/stretchr/testify/require"
 )
 

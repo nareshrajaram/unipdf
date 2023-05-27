@@ -6,7 +6,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/moolekkari/unipdf/core"
+	"github.com/nareshrajaram/unipdf/core"
 )
 
 // Data represents forms data format (FDF) file data.

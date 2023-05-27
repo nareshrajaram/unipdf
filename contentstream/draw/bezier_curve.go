@@ -3,7 +3,7 @@ package draw
 import (
 	"math"
 
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // CubicBezierCurve is defined by:

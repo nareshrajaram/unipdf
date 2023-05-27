@@ -9,9 +9,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/moolekkari/unipdf/annotator"
-	"github.com/moolekkari/unipdf/fdf"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/annotator"
+	"github.com/nareshrajaram/unipdf/fdf"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // FDF merge tests merge FDF data into template PDF data and flattens to an output PDF file.

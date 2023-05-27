@@ -9,8 +9,8 @@ import (
 
 	"github.com/gunnsth/pkcs7"
 
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // Adobe PKCS7 detached signature handler.

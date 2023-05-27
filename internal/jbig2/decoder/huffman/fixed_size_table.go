@@ -1,7 +1,7 @@
 package huffman
 
 import (
-	"github.com/moolekkari/unipdf/internal/jbig2/reader"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/reader"
 )
 
 // FixedSizeTable defines the table with the fixed size.

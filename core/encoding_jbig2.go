@@ -4,14 +4,14 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/internal/imageutil"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/internal/imageutil"
 
-	"github.com/moolekkari/unipdf/internal/jbig2"
-	"github.com/moolekkari/unipdf/internal/jbig2/bitmap"
-	"github.com/moolekkari/unipdf/internal/jbig2/decoder"
-	"github.com/moolekkari/unipdf/internal/jbig2/document"
-	"github.com/moolekkari/unipdf/internal/jbig2/errors"
+	"github.com/nareshrajaram/unipdf/internal/jbig2"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/bitmap"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/decoder"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/document"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/errors"
 )
 
 // JBIG2CompressionType defines the enum compression type used by the JBIG2Encoder.

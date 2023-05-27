@@ -3,8 +3,8 @@ package model
 import (
 	"fmt"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/core"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/core"
 )
 
 // PdfOutlineTreeNode contains common fields used by the outline and outline

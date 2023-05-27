@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/moolekkari/unipdf/contentstream"
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/contentstream"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 // TextFieldOptions defines optional parameter for a text field in a form.

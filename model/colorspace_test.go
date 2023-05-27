@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/moolekkari/unipdf/core"
-	"github.com/moolekkari/unipdf/internal/testutils"
+	"github.com/nareshrajaram/unipdf/core"
+	"github.com/nareshrajaram/unipdf/internal/testutils"
 )
 
 func TestSeparationCS1(t *testing.T) {

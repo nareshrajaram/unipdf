@@ -3,7 +3,7 @@ package core
 import (
 	"fmt"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 )
 
 // NewEncoderFromStream creates a StreamEncoder based on the stream's dictionary.

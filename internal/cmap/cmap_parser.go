@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 )
 
 // parse parses the CMap file and loads into the CMap structure.

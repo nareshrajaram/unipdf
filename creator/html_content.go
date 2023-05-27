@@ -15,9 +15,9 @@ import (
 	"github.com/vanng822/css"
 	"golang.org/x/net/html"
 
-	"github.com/moolekkari/unipdf/common"
-	"github.com/moolekkari/unipdf/contentstream/draw"
-	"github.com/moolekkari/unipdf/model"
+	"github.com/nareshrajaram/unipdf/common"
+	"github.com/nareshrajaram/unipdf/contentstream/draw"
+	"github.com/nareshrajaram/unipdf/model"
 )
 
 type htmlMargin struct {

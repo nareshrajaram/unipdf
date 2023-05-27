@@ -6,12 +6,12 @@ import (
 	"math"
 	"strings"
 
-	"github.com/moolekkari/unipdf/common"
+	"github.com/nareshrajaram/unipdf/common"
 
-	"github.com/moolekkari/unipdf/internal/jbig2/bitmap"
-	"github.com/moolekkari/unipdf/internal/jbig2/errors"
-	"github.com/moolekkari/unipdf/internal/jbig2/reader"
-	"github.com/moolekkari/unipdf/internal/jbig2/writer"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/bitmap"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/errors"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/reader"
+	"github.com/nareshrajaram/unipdf/internal/jbig2/writer"
 )
 
 // RegionSegment is the model representing base jbig2 segment region - see 7.4.1.
